@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+aiohttp
+redis
+python-dotenv
+redis>=4.0.0
